@@ -1,2 +1,6 @@
 github.com/putra32/go-say-hello v1.0.0 h1:04VlX/XZz3qgI23E993XrjsXmTFimZF+0zg6qyfUV5c=
 github.com/putra32/go-say-hello v1.0.0/go.mod h1:6tsMM2cIiBOlbDUoTTwGDexmGRTRRXbleAQyZpBuVuY=
+github.com/putra32/go-say-hello v1.5.0 h1:lXFOvmPgSFfvtNL6gDPIuWZ4wzhXntFEKVvkbWeOGQk=
+github.com/putra32/go-say-hello v1.5.0/go.mod h1:6tsMM2cIiBOlbDUoTTwGDexmGRTRRXbleAQyZpBuVuY=
+github.com/putra32/go-say-hello/v2 v2.0.0 h1:NG/R77ioJG8MkpF/Wi3vEkaUMNcCz/4D0ipY7jsId8w=
+github.com/putra32/go-say-hello/v2 v2.0.0/go.mod h1:5Xyfh2zlK+h+r9+mbPCBhY2cd4ik3igLS/RPwy3PE+g=
